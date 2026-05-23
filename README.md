@@ -122,6 +122,7 @@ Contributions are welcome. Keep changes small and focused: new tools, better sum
 --
 
 Built for demo-ready interviews and mentor walkthroughs. If you want I can help craft a 90-second demo script and screenshots for the `screenshots/` folder.
+
 # CloudWatch MCP Server — Observability Assistant Prototype
 
 A polished, demo-ready prototype: an "AI observability copilot" that uses a small MCP server
