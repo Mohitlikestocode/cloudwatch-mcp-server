@@ -77,10 +77,10 @@ Try these natural prompts:
 
 ```mermaid
 flowchart LR
-	A[User prompt] --> B[LLM (selects tool + args)]
-	B --> C[Tool (local Python) runs]
-	C --> D[LLM (explains results in natural language)]
-	D --> E[User receives explanation]
+  A["User prompt"] --> B["LLM — selects tool + args"]
+  B --> C["Tool (local Python) runs"]
+  C --> D["LLM — explains results in natural language"]
+  D --> E["User receives explanation"]
 ```
 
 **Tool registry (short)**
